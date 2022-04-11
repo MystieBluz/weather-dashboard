@@ -1,8 +1,6 @@
 # Weather Dashboard
 
 # Server-Side APIs: Weather Dashboard
-
-<!-- Update Task Section -->
 My task for this assignment was to a create a weather dashboard application that allows a user to retrieve weather data for various cities. This app will run in the browser and feature dynamically updated HTML and CSS. 
 
 I utilized html, css, js, third-party APIs and git to complete this homework assignment. 
