@@ -1,11 +1,11 @@
 # Weather Dashboard
 
-# 06 Server-Side APIs: Weather Dashboard
+# Server-Side APIs: Weather Dashboard
 
+<!-- Update Task Section -->
+My task for this assignment was to a create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. 
 
-
-
-
+I utilized html, css, js and git to complete this homework assignment. 
 
 ## User Story
 
@@ -30,3 +30,12 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
+
+You can view my GitHub and Live URL below:
+### [GitHub Link](https://github.com/mduhart82/weather-dashboard) 
+### [Live URL](https://mduhart82.github.io/weather-dashboard/)
+
+
+
+##### Screenshot of coding quiz:
+![]()
