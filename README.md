@@ -35,5 +35,5 @@ You can view my GitHub and Live URL below:
 
 
 
-##### Screenshot of coding quiz:
+##### Screenshot of weather dashboard:
 ![](./images/weather_srnsht.png)
