@@ -30,8 +30,8 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 You can view my GitHub and Live URL below:
-### [GitHub Link](https://github.com/mduhart82/weather-dashboard) 
-### [Live URL](https://mduhart82.github.io/weather-dashboard/)
+### [GitHub Link](https://github.com/MystieBluz/weather-dashboard) 
+### [Live URL](https://mystiebluz.github.io/weather-dashboard/)
 
 
 
